@@ -80,6 +80,6 @@ int main(void){
 	}else{
 		printf("프로그램에 오류가 났어요. 다시 실행한 후 올바르게 입력하세요.");
 	}
-	sleep(10);
+	
 	return 0;
 }
